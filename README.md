@@ -303,12 +303,6 @@ pip install -r requirements.txt
 
 ## 🔮 Roadmap
 
-### Version 1.0 (Planned)
-- [ ] Cloud integration for distributed generation
-- [ ] Enhanced AI-powered pattern recognition
-- [ ] Additional export formats (XML, HTML)
-- [ ] Plugin system for custom generators
-
 ### Version 1.1 (Future)
 - [ ] Real-time collaboration features
 - [ ] Mobile companion application
