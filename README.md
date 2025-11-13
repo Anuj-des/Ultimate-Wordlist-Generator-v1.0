@@ -1,4 +1,4 @@
-# Ultimate Wordlist Generator v4.0 🔐
+# Ultimate Wordlist Generator v1.0 🔐
 
 A professional-grade application for cybersecurity professionals, penetration testers, and security researchers. Generate intelligent password wordlists using advanced algorithms, pattern recognition, and extensive customization options.
 
